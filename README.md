@@ -29,10 +29,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a5ur4&theme=high-contrast&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
 <div align="center"> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
