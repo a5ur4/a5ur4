@@ -1,10 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Bastos;Tenho+17+anos;Sou+Brasileiro;E+estudo+Desenvolvimento+de+Sistemas;Na+ETE+Ministro+Fernando+Lyra;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-<br>
-<br>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=a5ur4&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5ur4&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
@@ -36,7 +29,3 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-  
- <br>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
