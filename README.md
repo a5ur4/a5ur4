@@ -26,6 +26,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 35px; width: 35px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 35px; width: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height: 35px; width: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height: 35px; width: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" style="height: 35px; width: 35px;" />
@@ -36,4 +37,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="height: 35px; width: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height: 35px; width: 35px;" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" style="height: 35px; width: 35px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" style="height: 35px; width: 35px;" />
 </div>
