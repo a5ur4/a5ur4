@@ -10,7 +10,7 @@
   <div>
     <p align="left">
       👾 <b>Creating bugs since</b>: 2021<br>
-      📚 <b>I'm currently reading</b>: <i>The Hobbit</i> by J.R.R. Tolkien<br>
+      📚 <b>I'm currently reading</b>: <i>Sapiens a brief history of humankind</i> by Yuval Noah Harari<br>
       🎯 <b>Goals</b>: Learn Go<br>
       🎲 <b>Fun fact</b>: I like to play Minecraft
     </p>
