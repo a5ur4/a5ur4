@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! 👋</h1>
 
 <p align="left">
-  My name is Pedro, but you can call me <b>a5ur4</b>, and I'm a software developer from Brazil.
+  My name is Pedro, but you can call me <b>a5ur4</b>, and I'm a software developer and data analyst from Brazil.
 </p>
 
 <h2 align="left">About me</h2>
